@@ -5,7 +5,7 @@
     <description>Ultimele noutati tech, reduceri, oferte si promotii online</description>
     <author email="ioan.ulecan@mageline.com" href="https://www.ulecan.ro">Ioan Ulecan</author>
 
-    <preference name="phonegap-version" value="6.3.0" />
+    <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="both" />       <!-- all: default means both landscape and portrait are enabled -->
